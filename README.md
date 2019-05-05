@@ -5,3 +5,4 @@ Visualisasi data ini menggunakan salah satu modul yang populer di python yaitu s
 1. Visualisasi Data Bar Plots dengan Seaborn
 2. Visualisasi Data Dist Plots dengan Seaborn
 3. Visualisasi Data Box Plots dengan Seaborn
+4. Visualisasi Data Strip Plots dengan Seaborn
