@@ -6,3 +6,4 @@ Visualisasi data ini menggunakan salah satu modul yang populer di python yaitu s
 2. Visualisasi Data Dist Plots dengan Seaborn
 3. Visualisasi Data Box Plots dengan Seaborn
 4. Visualisasi Data Strip Plots dengan Seaborn
+5. Seaborn - Pairwise Plot
